@@ -7,11 +7,8 @@ A simple Android chatbot app that connects to an open-source Large Language Mode
 ## 📸 Screenshots
 
 | Chat UI                      | Message Exchange               |
-|-----------------------------|--------------------------------|
 |<
- !img width="1080" height="2400" alt="AppHomeScreen" src="https://github.com/user-attachments/assets/00816cd0-d620-4b88-9af6-83dc2752a210" /> | <img width="1080" height="2400" alt="ChatInAction" src="https://github.com/user-attachments/assets/0e41d54f-3904-4ecf-8c2b-8994eebe511a" />
-
-> _Replace the above images with actual screenshots saved in a `/images` folder._
+ <img width="1080" height="2400" alt="AppHomeScreen" src="https://github.com/user-attachments/assets/00816cd0-d620-4b88-9af6-83dc2752a210" /> | <img width="1080" height="2400" alt="ChatInAction" src="https://github.com/user-attachments/assets/0e41d54f-3904-4ecf-8c2b-8994eebe511a" />
 
 ---
 
