@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var chatAdapter: ChatAdapter
     private val messages = mutableListOf<ChatMessage>()
 
-    private val apiKey = "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" // Replace with your key
+    private val apiKey = "YOUR-OWN-API-KEY" // Replace with your key
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
